@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lvt17&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
-</p>
 
 
 ## 🧭 Summary  
