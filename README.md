@@ -8,15 +8,9 @@ Constantly experimenting with side projects to refine **problem-solving** and **
 Aspiring to grow into a **full-stack Mobile Engineer** who builds products that truly matter.
 
 ---
-## 💬 Socials  
-
-[<img src="https://img.icons8.com/ios-filled/25/0A66C2/linkedin.png" alt="LinkedIn"/>](https://www.linkedin.com/in/vinh-toan-lieu-4b218536a)
-[<img src="https://img.icons8.com/ios-filled/25/1877F2/facebook-new.png" alt="Facebook"/>](https://www.facebook.com/lvt17.xyz)
-[<img src="https://img.icons8.com/ios-filled/25/E4405F/instagram-new.png" alt="Instagram"/>](https://www.instagram.com/l.vt17)
-[<img src="https://img.icons8.com/ios-filled/25/EA4335/gmail.png" alt="Gmail"/>](mailto:lieutoan7788a@gmail.com)
 
 
-## ⚙️ Tools & Skills  
+## ⚙️ Tools & Technologies
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -30,5 +24,11 @@ Aspiring to grow into a **full-stack Mobile Engineer** who builds products that 
 
 
 ---
+## 🔗 Contacts  
+
+[<img src="https://img.icons8.com/ios-filled/25/0A66C2/linkedin.png" alt="LinkedIn"/>](https://www.linkedin.com/in/vinh-toan-lieu-4b218536a)
+[<img src="https://img.icons8.com/ios-filled/25/1877F2/facebook-new.png" alt="Facebook"/>](https://www.facebook.com/lvt17.xyz)
+[<img src="https://img.icons8.com/ios-filled/25/E4405F/instagram-new.png" alt="Instagram"/>](https://www.instagram.com/l.vt17)
+[<img src="https://img.icons8.com/ios-filled/25/EA4335/gmail.png" alt="Gmail"/>](mailto:lieutoan7788a@gmail.com)
 
 ⭐️ From [lvt17](https://github.com/lvt17)
