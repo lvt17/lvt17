@@ -8,15 +8,26 @@ Constantly experimenting with side projects to refine **problem-solving** and **
 Aspiring to grow into a **full-stack Mobile Engineer** who builds products that truly matter.
 
 ---
+## Contacts 
 
-## 🌐 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/vinh-toan-lieu-4b218536a" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/lvt17.xyz" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/1877F2/facebook-new.png" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/l.vt17" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/E4405F/instagram-new.png" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:lieutoan7788a@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/EA4335/gmail.png" alt="Gmail"/>
+  </a>
+</p>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/lvt17.xyz)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/l.vt17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinh-toan-lieu-4b218536a)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lieutoan7788a@gmail.com)
-
----
 
 ## ⚙️ Tools & Skills  
 
