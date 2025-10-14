@@ -1,10 +1,9 @@
-# 🚀 Who Am I
+## 🧭 Summary  
 
-- Junior student in **Software Engineering**, University of Transport HCMC  
-- Focus on **Mobile Development** with Flutter & Swift  
-- Background in **C++ / MySQL / Firebase**  
-- Always building side projects to sharpen skills  
-- Dream: become a **full-stack Mobile Engineer**
+Junior **Software Engineering student** at the **University of Transport HCMC**, passionate about crafting **clean and scalable mobile apps** with **Flutter** and **Swift**.  
+Hands-on experience in **C++**, **MySQL**, and **Firebase**.  
+Constantly experimenting with side projects to refine **problem-solving** and **design skills**.  
+Aspiring to grow into a **full-stack Mobile Engineer** who builds products that truly matter.
 
 ---
 
