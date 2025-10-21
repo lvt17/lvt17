@@ -2,8 +2,7 @@
 
 ## 🧭 Summary  
 
-Junior **Software Engineering student** at the **University of Transport HCMC**, passionate about crafting **clean and scalable mobile apps** with **Flutter** and **Swift**.  
-Hands-on experience in **C++**, **MySQL**, and **Firebase**.  
+Junior **Software Engineering student** at the **University of Transport HCMC**, passionate about crafting **clean and scalable mobile apps** with **Flutter**.  
 Constantly experimenting with side projects to refine **problem-solving** and **design skills**.  
 Aspiring to grow into a **full-stack Mobile Engineer** who builds products that truly matter.
 
