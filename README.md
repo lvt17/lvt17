@@ -165,13 +165,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🥇%20Main-Dart%20%2F%20Flutter-00c853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🥈%20Secondary-Node.js%20%2F%20React-1e88e5?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lvt17&theme=tokyonight&hide_border=true"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvt17&layout=compact&theme=tokyonight&hide_border=true&hide=python"/>
 </p>
 
