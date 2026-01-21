@@ -11,12 +11,12 @@
 <h1 style="color:#58a6ff;">👋 Hi, I'm Vĩnh Toàn</h1>
 
 <p>
-  <span style="color:#4CAF50; font-weight:600;">🎓 Junior Student</span><br/>
+  <span style="color:#4CAF50; font-weight:600;">Junior Student</span><br/>
   <span style="color:#8b949e;">University of Transport HCMC</span>
 </p>
 
 <p>
-  💙 Building <b style="color:#ff9800;">clean, scalable mobile apps</b><br/>
+  💙 Building <b style="color:#ff9800;">clean, scalable mobile apps</b>
   with <b>Flutter & Dart</b>
 </p>
 
