@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vinh+To%C3%A0n+%F0%9F%91%8B;Flutter+Developer;Mobile+Engineering+Enthusiast;Full-Stack+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+Engineering+Enthusiast;Full-Stack+Explorer" alt="Typing SVG" />
 </p>
 <p align="center">
   <a href="https://github.com/lvt17"><img src="https://img.shields.io/github/followers/lvt17?style=social" alt="GitHub followers" /></a>
@@ -158,8 +158,7 @@
   <li>📊 Inventory & analytics</li>
 </ul>
 
-<b>Live:</b><br/>
-http://15.235.198.132/  
+
 
 </div>
 
