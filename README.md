@@ -7,91 +7,191 @@
   <a href="mailto:lieutoan7788a@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 ---
+
+<div align="center">
+
+<h1 style="color:#58a6ff;">👋 Hi, I'm Vĩnh Toàn</h1>
+
+<p>
+  <span style="color:#4CAF50; font-weight:600;">🎓 Software Engineering student</span><br/>
+  <span style="color:#8b949e;">University of Transport HCMC</span>
+</p>
+
+<p>
+  💙 Building <b style="color:#ff9800;">clean, scalable mobile apps</b><br/>
+  with <b>Flutter & Dart</b>
+</p>
+
+</div>
+
+---
+
 ## 🧭 About Me
-🎓 **Software Engineering student** at **University of Transport HCMC**
-💙 Passionate about building **clean, scalable mobile applications** with **Flutter & Dart**
-🔥 Currently leveling up through personal projects and freelance work:
-- 📱 **Mobile Development** — Flutter, Firebase, Provider
-- 🎨 **UI/UX Design** — Figma, Cupertino, Material Design  
-- 🔧 **Full-Stack Development** — React, Node.js, PostgreSQL
-🎯 **Goal:** Become a Full-Stack Mobile Engineer creating products that make a real impact.
+
+<div style="
+  background:#0d1117;
+  border:1px solid #30363d;
+  border-radius:14px;
+  padding:20px;
+">
+
+🔥 Leveling up through personal projects & freelance work
+
+<ul>
+  <li>📱 <b>Mobile Dev</b> — Flutter, Firebase, Provider</li>
+  <li>🎨 <b>UI/UX</b> — Figma, Cupertino, Material Design</li>
+  <li>🔧 <b>Full-stack</b> — React, Node.js, PostgreSQL</li>
+</ul>
+
+🎯 <b>Goal:</b> Full-Stack Mobile Engineer building products that actually matter.
+
+</div>
+
 ---
+
 ## ⚙️ Tech Stack
+
 ### 💎 Core Expertise
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
 ### 🔬 Exploring & Freelance
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
 ### 🛠️ Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<p>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
 ---
+
 ## 🏆 Featured Projects
-### 1. [Eco-Planner](https://github.com/lvt17/eco-planner) — AI-Powered E-commerce Platform
-🛒 Full-stack intelligent e-commerce platform with real-time communication and AI-powered customer support
-**🔧 Tech:** React 18 • Vite • TypeScript • Node.js • Express.js • Socket.io • MongoDB • MoMo/VNPay
-**✨ Features:**
-- 🤖 AI chatbot with sentiment analysis & LLM-powered product descriptions
-- 💳 Multi-gateway payment (MoMo, VNPay, COD)
-- 📊 Real-time admin dashboard with live visitor tracking
-- 🔐 JWT authentication & order tracking system
-- 💬 Live chat support with emotion-based priority
+
+<div style="border-left:4px solid #58a6ff; padding-left:16px;">
+
+### 1. Eco-Planner — AI-Powered E-commerce  
+🔗 https://github.com/lvt17/eco-planner  
+
+🛒 Full-stack e-commerce with real-time & AI support  
+
+<b>Tech:</b> React • TS • Node • Express • Socket.io • MongoDB • MoMo/VNPay  
+
+<ul>
+  <li>🤖 AI chatbot + sentiment analysis</li>
+  <li>💳 Multi payment gateway</li>
+  <li>📊 Real-time admin dashboard</li>
+  <li>🔐 JWT auth & order tracking</li>
+</ul>
+
+</div>
+
 ---
-### 2. [Field Booking](https://github.com/lvt17/field-booking) — Sports Field Reservation System
-⚽ Premium football field booking app with real-time availability and Cupertino-style UI
-**🔧 Tech:** Flutter (Cupertino) • Firebase Suite (Auth, Firestore, Storage) • Provider
-**✨ Features:**
-- 🔍 Smart search — auto-suggests larger/smaller fields when unavailable
-- ⚡ Real-time booking with Firestore Transactions (no double-booking)
-- 📅 Booking history & 24h cancellation support
-- 📊 Admin dashboard with 7-day revenue analytics
-- 💰 Dynamic pricing based on duration
-- ⏰ Configurable operating hours
+
+<div style="border-left:4px solid #4CAF50; padding-left:16px;">
+
+### 2. Field Booking — Sports Reservation App  
+🔗 https://github.com/lvt17/field-booking  
+
+⚽ Real-time booking, Cupertino UI  
+
+<b>Tech:</b> Flutter • Firebase • Provider  
+
+<ul>
+  <li>⚡ Firestore transaction chống trùng sân</li>
+  <li>📅 Booking history & 24h cancel</li>
+  <li>📊 Admin revenue analytics</li>
+</ul>
+
+</div>
+
 ---
-### 3. [E-commerce with AI](https://github.com/lvt17/e-ecommerce-with-ai) — Smart Shopping Platform
-🤖 Full-featured e-commerce app with AI-assisted recommendations for mobile & web
-**🔧 Tech:** Flutter • Dart • Node.js • Express.js • MongoDB
-**✨ Features:**
-- 🛒 Product search, filtering & smart recommendations
-- 🛍️ Cart, checkout & wishlist management
-- 🤖 24/7 AI chatbot support
-- 👤 User account management
-- 📦 Order & product management (Admin)
+
+<div style="border-left:4px solid #ff9800; padding-left:16px;">
+
+### 3. E-commerce with AI  
+🔗 https://github.com/lvt17/e-ecommerce-with-ai  
+
+<b>Tech:</b> Flutter • Node • MongoDB  
+
+<ul>
+  <li>🛒 Smart search & recommendations</li>
+  <li>🤖 AI chatbot 24/7</li>
+  <li>📦 Admin order management</li>
+</ul>
+
+</div>
+
 ---
-### 4. [Sinotruk Hà Nội](https://github.com/lvt17/sinotruk) — B2B E-commerce Platform
-🚛 Enterprise-grade B2B parts management platform for SINOTRUK Hà Nội
-**🔧 Tech:** React 18 • TypeScript • Tailwind CSS • Supabase (PostgreSQL) • Vercel
-**✨ Features:**
-- 🔍 Smart search & category filtering
-- 📱 Mobile-first responsive design
-- 🖼️ Image gallery with zoom
-- 📊 Admin product management & analytics
-- 📈 Real-time inventory sync
-🔗 **Live:** [Customer Site](https://sinotruk-hanoi.vercel.app) • [Admin Dashboard](https://sinotruk-admin.vercel.app)
+
+<div style="border-left:4px solid #9c27b0; padding-left:16px;">
+
+### 4. Sinotruk Hà Nội — B2B Platform  
+🔗 http://15.235.198.132/
+
+<b>Tech:</b> React • Tailwind • Supabase • Vercel  
+
+<ul>
+  <li>🔍 Smart search</li>
+  <li>📱 Mobile-first</li>
+  <li>📊 Inventory & analytics</li>
+</ul>
+
+<b>Live:</b><br/>
+http://15.235.198.132/  
+
+</div>
+
 ---
+
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lvt17&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvt17&layout=compact&theme=tokyonight&hide_border=true)
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lvt17&theme=tokyonight&hide_border=true"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvt17&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 ---
+
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinh-toan-lieu-4b218536a)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lvt17.xyz)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l.vt17)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lieutoan7788a@gmail.com)
+
+<p>
+<a href="https://www.linkedin.com/in/vinh-toan-lieu-4b218536a">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/lvt17.xyz">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/l.vt17">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:lieutoan7788a@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
 ---
-⭐ **If you find my projects helpful, consider giving them a star!**
-Made with ❤️ by [lvt17](https://github.com/lvt17)
+
+Made with ❤️ by **lvt17**
