@@ -168,9 +168,15 @@ http://15.235.198.132/
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lvt17&theme=tokyonight&hide_border=true"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvt17&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/🥇%20Main%20Stack-Dart%20%2F%20Flutter-00c853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🥈%20Secondary-Node.js%20%2F%20React-1e88e5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🥉%20Others-Backend%20%26%20Tools-9c27b0?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lvt17&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvt17&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss"/>
 </p>
 
 ---
