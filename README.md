@@ -42,7 +42,7 @@
 ---
 ## 🏆 Featured Projects
 ### 1. [Eco-Planner](https://github.com/lvt17/eco-planner) — AI-Powered E-commerce Platform
-> 🛒 Full-stack intelligent e-commerce platform with real-time communication and AI-powered customer support
+🛒 Full-stack intelligent e-commerce platform with real-time communication and AI-powered customer support
 **🔧 Tech:** React 18 • Vite • TypeScript • Node.js • Express.js • Socket.io • MongoDB • MoMo/VNPay
 **✨ Features:**
 - 🤖 AI chatbot with sentiment analysis & LLM-powered product descriptions
@@ -52,7 +52,7 @@
 - 💬 Live chat support with emotion-based priority
 ---
 ### 2. [Field Booking](https://github.com/lvt17/field-booking) — Sports Field Reservation System
-> ⚽ Premium football field booking app with real-time availability and Cupertino-style UI
+⚽ Premium football field booking app with real-time availability and Cupertino-style UI
 **🔧 Tech:** Flutter (Cupertino) • Firebase Suite (Auth, Firestore, Storage) • Provider
 **✨ Features:**
 - 🔍 Smart search — auto-suggests larger/smaller fields when unavailable
@@ -63,7 +63,7 @@
 - ⏰ Configurable operating hours
 ---
 ### 3. [E-commerce with AI](https://github.com/lvt17/e-ecommerce-with-ai) — Smart Shopping Platform
-> 🤖 Full-featured e-commerce app with AI-assisted recommendations for mobile & web
+🤖 Full-featured e-commerce app with AI-assisted recommendations for mobile & web
 **🔧 Tech:** Flutter • Dart • Node.js • Express.js • MongoDB
 **✨ Features:**
 - 🛒 Product search, filtering & smart recommendations
@@ -73,7 +73,7 @@
 - 📦 Order & product management (Admin)
 ---
 ### 4. [Sinotruk Hà Nội](https://github.com/lvt17/sinotruk) — B2B E-commerce Platform
-> 🚛 Enterprise-grade B2B parts management platform for SINOTRUK Hà Nội
+🚛 Enterprise-grade B2B parts management platform for SINOTRUK Hà Nội
 **🔧 Tech:** React 18 • TypeScript • Tailwind CSS • Supabase (PostgreSQL) • Vercel
 **✨ Features:**
 - 🔍 Smart search & category filtering
@@ -84,23 +84,14 @@
 🔗 **Live:** [Customer Site](https://sinotruk-hanoi.vercel.app) • [Admin Dashboard](https://sinotruk-admin.vercel.app)
 ---
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lvt17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvt17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lvt17&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvt17&layout=compact&theme=tokyonight&hide_border=true)
 ---
 ## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/vinh-toan-lieu-4b218536a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/lvt17.xyz"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/l.vt17"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:lieutoan7788a@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinh-toan-lieu-4b218536a)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lvt17.xyz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l.vt17)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lieutoan7788a@gmail.com)
 ---
-<p align="center">
-  <b>⭐ If you find my projects helpful, consider giving them a star!</b>
-  <br><br>
-  Made with ❤️ by <a href="https://github.com/lvt17">lvt17</a>
-</p>
+⭐ **If you find my projects helpful, consider giving them a star!**
+Made with ❤️ by [lvt17](https://github.com/lvt17)
