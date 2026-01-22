@@ -90,7 +90,7 @@
 <div style="border-left:4px solid #58a6ff; padding-left:16px;">
 
 ### 1. Eco-Planner — AI-Powered E-commerce  
-🔗 https://github.com/lvt17/eco-planner  
+🔗 [https://github.com/lvt17/eco-planner  ](https://eco-planner-eight.vercel.app/)
 
 🛒 Full-stack e-commerce with real-time & AI support  
 
