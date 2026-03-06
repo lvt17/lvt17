@@ -15,10 +15,7 @@
   <span style="color:#8b949e;">University of Transport HCMC</span>
 </p>
 
-<p>
-  💙 Building <b style="color:#ff9800;">E2E Websites</b>
-  with <b>Node.js & React</b>
-</p>
+
 
 </div>
 
