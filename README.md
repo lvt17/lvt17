@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+Engineering+Enthusiast;Full-Stack+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer" alt="Typing SVG" />
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/vinh-toan-lieu-4b218536a"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -8,7 +8,7 @@
 
 <div align="left">
 
-<h1 style="color:#58a6ff;">👋 Hi, I'm Vĩnh Toàn</h1>
+<h1 style="color:#58a6ff;">👋 Hi, I'm Lieu Vinh Toan</h1>
 
 <p>
   <span style="color:#4CAF50; font-weight:600;">Junior Student</span><br/>
@@ -16,8 +16,8 @@
 </p>
 
 <p>
-  💙 Building <b style="color:#ff9800;">clean, scalable mobile apps</b>
-  with <b>Flutter & Dart</b>
+  💙 Building <b style="color:#ff9800;">E2E Websites</b>
+  with <b>Node.js & React</b>
 </p>
 
 </div>
@@ -37,11 +37,10 @@
 
 <ul>
   <li>📱 <b>Mobile Dev</b> — Flutter, Firebase, Provider</li>
-  <li>🎨 <b>UI/UX</b> — Figma, Cupertino, Material Design</li>
-  <li>🔧 <b>Full-stack</b> — React, Node.js, PostgreSQL</li>
+  <li>🔧 <b>Web Dev</b> — React, Node.js, PostgreSQL, MongoDB</li>
 </ul>
 
-🎯 <b>Goal:</b> Full-Stack Mobile Engineer building products that actually matter.
+🎯 <b>Goal:</b> Full-Stack developer building products that actually matter.
 
 </div>
 
