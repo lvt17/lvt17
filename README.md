@@ -10,10 +10,7 @@
 
 <h1 style="color:#58a6ff;">👋 Hi, I'm Lieu Vinh Toan</h1>
 
-<p>
-  <span style="color:#4CAF50; font-weight:600;">Junior Student</span><br/>
-  <span style="color:#8b949e;">University of Transport HCMC</span>
-</p>
+
 
 
 
