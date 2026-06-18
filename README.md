@@ -7,10 +7,9 @@
 <a href="mailto:lieutoan7788a@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=lvt17&style=for-the-badge"/>
 </div>
 <br>
-<h1 align="center">👋 Hi, I'm Lieu Vinh Toan</h1>
+<h1 align="center">👋 Lieu Vinh Toan</h1>
 <h3 align="center">
 Full Stack Engineer @ Innovation Tek Limited 🇬🇧
 </h3>
