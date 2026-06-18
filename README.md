@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;AI+Integration+%7C+Backend+%7C+Frontend+%7C+Cloud;Building+Production+SaaS+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+AI+Engineer;AI+Integration+%7C+Backend+%7C+Frontend+%7C+Cloud;Building+Production+SaaS+Products" />
 <br/>
 <a href="https://www.linkedin.com/in/lvt17">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -11,7 +11,7 @@
 <br>
 <h1 align="center">👋 Lieu Vinh Toan</h1>
 <h3 align="center">
-Full Stack Engineer @ Innovation Tek Limited 🇬🇧
+Full Stack AI Engineer @ Innovation Tek Limited 🇬🇧
 </h3>
 <p align="center">
 Building AI-powered SaaS products from frontend to production.
@@ -33,7 +33,7 @@ Most of my work focuses on turning business ideas into real products used by cus
 <h2>⚡ Current Work</h2>
 <pre>
 Role:
-Full Stack Engineer
+Full Stack AI Engineer (Integration)
 Products:
 • HalalScanr (AI suggestion for muslim)
 • Aries (AI Recruitment automation)
