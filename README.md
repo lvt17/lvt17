@@ -17,14 +17,12 @@ Full Stack Engineer @ Innovation Tek Limited 🇬🇧
 Building AI-powered SaaS products from frontend to production.
 </p>
 <br>
-<table>
-<tr>
-<td width="55%" valign="top">
+
 <h2>🚀 About Me</h2>
 <ul>
 <li>💼 Full Stack Engineer working remotely for a UK company</li>
 <li>🏗 Building and maintaining multiple production SaaS products</li>
-<li>🤖 AI Integration using Gemini, OpenAI and automation workflows</li>
+<li>🤖 AI Integration using Gemini and automation workflows</li>
 <li>☁️ Deploying and operating cloud-based applications</li>
 <li>🗄 Designing scalable backend systems and databases</li>
 <li>💳 Building subscription and payment systems with Stripe</li>
@@ -32,8 +30,6 @@ Building AI-powered SaaS products from frontend to production.
 <p>
 Most of my work focuses on turning business ideas into real products used by customers.
 </p>
-</td>
-<td width="45%" valign="top">
 <h2>⚡ Current Work</h2>
 <pre>
 Role:
@@ -51,9 +47,7 @@ Responsibilities:
 • AI Integration
 • Production Support
 </pre>
-</td>
-</tr>
-</table>
+
 
 ⸻
 
@@ -64,15 +58,14 @@ Responsibilities:
 <h3>Backend</h3>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 <h3>Databases</h3>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase" />
 <h3>Cloud & DevOps</h3>
-<img src="https://skillicons.dev/icons?i=docker,gcp,vercel,git,github" />
+<img src="https://skillicons.dev/icons?i=docker,gcp,git,github" />
 </div>
 <br>
 <h2 align="center">🤖 AI & Integrations</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Google_Maps-34A853?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge"/>
@@ -90,7 +83,7 @@ Responsibilities:
 
 Innovation Tek Limited (UK)
 
-Remote • Mar 2026 - Present
+Remote • June 2026 - Present
 
 <ul>
 <li>Developing and maintaining multiple AI-powered SaaS products</li>
@@ -101,44 +94,6 @@ Remote • Mar 2026 - Present
 <li>Deploying production workloads to Google Cloud Run</li>
 <li>Managing databases, caching and infrastructure</li>
 <li>Maintaining systems used by real customers</li>
-</ul>
-</td>
-</tr>
-</table>
-
-⸻
-
-<h2 align="center">🚀 Featured Projects</h2>
-<table>
-<tr>
-<td width="50%">
-<h3>🕌 HalalScanr</h3>
-
-AI-powered Muslim travel platform.
-
-Highlights
-
-<ul>
-<li>Google Maps Integration</li>
-<li>Redis Caching</li>
-<li>Stripe Subscription System</li>
-<li>Partner Dashboard</li>
-<li>Telegram Bot</li>
-<li>AI Recommendations</li>
-</ul>
-</td>
-<td width="50%">
-<h3>📊 LVT Space</h3>
-
-Personal productivity ecosystem.
-
-Features
-
-<ul>
-<li>Task Management</li>
-<li>Habit Tracking</li>
-<li>Finance Tracking</li>
-<li>Analytics Dashboard</li>
 </ul>
 </td>
 </tr>
