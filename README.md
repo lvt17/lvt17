@@ -39,16 +39,15 @@ Most of my work focuses on turning business ideas into real products used by cus
 Role:
 Full Stack Engineer
 Products:
-• HalalScanr
-• Recruitment Platform
-• AI Image Platform
-• Internal SaaS Tools
+• HalalScanr (AI suggestion for muslim)
+• Aries (AI Recruitment automation)
+• Headshoot (Image generation)
 Responsibilities:
-• Frontend
-• Backend
+• Frontend (React, Next.js)
+• Backend (Node.js)
 • PostgreSQL
 • Redis
-• Cloud Deployment
+• Cloud Deployment (Cloud Run)
 • AI Integration
 • Production Support
 </pre>
