@@ -11,7 +11,7 @@
 <br>
 <h1 align="center">👋 Lieu Vinh Toan</h1>
 <h3 align="center">
-Full Stack AI Engineer @ Innovation Tek Limited 🇬🇧
+Software Engineer @ Innovation Tek Ltd 🇬🇧
 </h3>
 <p align="center">
 Building AI-powered SaaS products from frontend to production.
