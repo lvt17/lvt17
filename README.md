@@ -20,7 +20,7 @@ Building AI-powered SaaS products from frontend to production.
 
 <h2>🚀 About Me</h2>
 <ul>
-<li>💼 Full Stack Engineer working remotely for a UK company</li>
+<li>💼 Software Engineer working remotely for a UK company</li>
 <li>🏗 Building and maintaining multiple production SaaS products</li>
 <li>🤖 AI Integration using Gemini and automation workflows</li>
 <li>☁️ Deploying and operating cloud-based applications</li>
@@ -33,10 +33,10 @@ Most of my work focuses on turning business ideas into real products used by cus
 <h2>⚡ Current Work</h2>
 <pre>
 Role:
-Full Stack AI Engineer (Integration)
+Software Engineer (Integration)
 Products:
 • HalalScanr (AI suggestion for muslim)
-• Aries (AI Recruitment automation)
+• FanScanr AI (Football AI for EPL analysing)
 • Headshoot (Image generation)
 Responsibilities:
 • Frontend (React, Next.js)
@@ -79,7 +79,7 @@ Responsibilities:
 <table>
 <tr>
 <td>
-<h3>Full Stack Engineer</h3>
+<h3>Software Engineer</h3>
 
 Innovation Tek Limited (UK)
 
