@@ -1,117 +1,44 @@
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+AI+Engineer;AI+Integration+%7C+Backend+%7C+Frontend+%7C+Cloud;Building+Production+SaaS+Products" />
-<br/>
-<a href="https://www.linkedin.com/in/lvt17">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://profile.f2clabs.com">
+  <img src="https://raw.githubusercontent.com/lvt17/my-profile/main/apps/portfolio/public/og.png" alt="Lieu Vinh Toan, Software Engineer" width="100%" />
 </a>
-<a href="mailto:lieutoan7788a@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</div>
-<br>
-<h1 align="center">👋 Lieu Vinh Toan</h1>
-<h3 align="center">
-Software Engineer @ Innovation Tek Ltd 🇬🇧
-</h3>
+
 <p align="center">
-Building AI-powered SaaS products from frontend to production.
-</p>
-<br>
-
-<h2>🚀 About Me</h2>
-<ul>
-<li>💼 Software Engineer working remotely for a UK company</li>
-<li>🏗 Building and maintaining multiple production SaaS products</li>
-<li>🤖 AI Integration using Gemini and automation workflows</li>
-<li>☁️ Deploying and operating cloud-based applications</li>
-<li>🗄 Designing scalable backend systems and databases</li>
-<li>💳 Building subscription and payment systems with Stripe</li>
-</ul>
-<p>
-Most of my work focuses on turning business ideas into real products used by customers.
-</p>
-<h2>⚡ Current Work</h2>
-<pre>
-Role:
-Software Engineer (Integration)
-Products:
-• HalalScanr (AI suggestion for muslim)
-• FanScanr AI (Football AI for EPL analysing)
-• Headshoot (Image generation)
-Responsibilities:
-• Frontend (React, Next.js)
-• Backend (Node.js)
-• PostgreSQL
-• Redis
-• Cloud Deployment (Cloud Run)
-• AI Integration
-• Production Support
-</pre>
-
-
-⸻
-
-<h2 align="center">🛠 Tech Stack</h2>
-<div align="center">
-<h3>Frontend</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
-<h3>Backend</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-<h3>Databases</h3>
-<img src="https://skillicons.dev/icons?i=postgres,supabase" />
-<h3>Cloud & DevOps</h3>
-<img src="https://skillicons.dev/icons?i=docker,gcp,git,github" />
-</div>
-<br>
-<h2 align="center">🤖 AI & Integrations</h2>
-<div align="center">
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Google_Maps-34A853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge"/>
-</div>
-
-⸻
-
-<h2 align="center">💼 Professional Experience</h2>
-<table>
-<tr>
-<td>
-<h3>Software Engineer</h3>
-
-Innovation Tek Limited (UK)
-
-Remote • June 2026 - Present
-
-<ul>
-<li>Developing and maintaining multiple AI-powered SaaS products</li>
-<li>Building full-stack applications with Next.js, Node.js and PostgreSQL</li>
-<li>Integrating AI services and business workflows</li>
-<li>Implementing Stripe subscriptions and payment systems</li>
-<li>Building search, recommendation and automation features</li>
-<li>Deploying production workloads to Google Cloud Run</li>
-<li>Managing databases, caching and infrastructure</li>
-<li>Maintaining systems used by real customers</li>
-</ul>
-</td>
-</tr>
-</table>
-
-⸻
-
-<h2 align="center">📈 GitHub Analytics</h2>
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lvt17&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvt17&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lvt17&theme=tokyonight&hide_border=true"/>
+  <a href="https://profile.f2clabs.com"><img src="https://img.shields.io/badge/Portfolio-profile.f2clabs.com-000000?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://profile.f2clabs.com/cv.pdf"><img src="https://img.shields.io/badge/Download-CV-171717?style=for-the-badge" alt="Download CV" /></a>
+  <a href="https://linkedin.com/in/lvt17"><img src="https://img.shields.io/badge/LinkedIn-lvt17-0a66c2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:lieutoan7788a@gmail.com"><img src="https://img.shields.io/badge/Email-lieutoan7788a%40gmail.com-ea4335?style=for-the-badge" alt="Email" /></a>
 </p>
 
-⸻
+## About me
 
-<div align="center">
-<h3>Building products for real users, not just portfolios.</h3>
-</div>
+Software Engineer with hands-on experience building, architecting, and operating production web applications across startups and international teams. I build the service, integrate the payment and AI pipelines, then set up and release it to production.
+
+- **Software Engineer & Team Lead** at **Livago Holding**, leading architecture for the Property Management System (PMS) and universal payment flow (MoMo, VNPay)
+- **Founder & Founding Engineer** at **F2C Labs**, consulting tailored CRM/ERP for logistics enterprises and building community utilities
+- **Software Engineer** at **Innovation Tek Limited (UK)**, engineering AI-powered platforms (HalalScanr, FanScanr AI, Headshoot.ai) with Google Gemini core and Stripe
+
+## Featured work
+
+| Project | What it is | What I did |
+| --- | --- | --- |
+| [**Livago PMS & Payment**](https://profile.f2clabs.com/projects/livago-pms/) | Multi-platform PMS & universal payment rail | MoMo & VNPay integration, Kafka event bus, idempotent webhooks |
+| [**Drive Easy**](https://profile.f2clabs.com/projects/driveasy/) | Vietnamese GPLX 600 theory & 120 hazard simulations | Free community platform, offline-first IndexedDB, timed exam suites |
+| [**FanScanr AI**](https://profile.f2clabs.com/projects/fanscanr-ai/) | Premier League fan sentiment & transfer RAG engine | Real-time sentiment index, RAG vector search, GCP Cloud Run |
+| [**Headshoot.ai**](https://profile.f2clabs.com/projects/headshoot-ai/) | Enterprise AI corporate portrait synthesis platform | Asynchronous GPU queues, Stripe billing, auto-purge privacy |
+| [**MazicBay**](https://profile.f2clabs.com/projects/mazicbay/) | Automotive SAE J1979 OBD-II diagnostic portal | DTC freeze-frame telemetry lookup, Cloudflare edge caching |
+
+[See all projects and career journey →](https://profile.f2clabs.com/projects/)
+
+## Tech stack
+
+**Languages & Frontend**
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,astro,html,css" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Astro" />
+
+**Backend & Messaging**
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,nestjs,py,fastapi,kafka" alt="Java, Spring Boot, Node.js, Express, NestJS, Python, FastAPI, Kafka" />
+
+**Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,docker,gcp,cloudflare,linux,git,github" alt="PostgreSQL, Redis, MongoDB, Docker, GCP, Cloudflare, Linux, Git, GitHub" />
